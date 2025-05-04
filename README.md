@@ -1,6 +1,6 @@
 # CalculatorProject
 A calculator built with core java.
-This is a simple calculator program written in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a calculator program written in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 ## How to Use
 1. Run the 'Calculator.java' file in a Java environment.
 2. Enter the first number.
